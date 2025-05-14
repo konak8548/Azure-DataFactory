@@ -1,5 +1,13 @@
 {
 	"name": "adfuhcl",
+	"properties": {
+		"globalParameters": {
+			"repitions": {
+				"type": "int",
+				"value": 5
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
