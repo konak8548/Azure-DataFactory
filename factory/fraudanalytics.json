@@ -1,0 +1,9 @@
+{
+	"name": "fraudanalytics",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "311c9e1a-8ed0-4f56-beba-3f6840daff39",
+		"tenantId": "593fa49a-b093-407c-9f67-1f50b77cb432"
+	}
+}
